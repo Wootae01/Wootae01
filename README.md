@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:085041&height=200&section=header&text=Wootae's%20GitHub&fontSize=40&fontColor=fff" />
+</div>
 
-<!--
-**Wootae01/Wootae01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+<h3>안녕하세요! 김우태입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> </h3>
+<br>
 
-Here are some ideas to get you started:
+<h2>🛠 Tech Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wootae01&layout=compact)
