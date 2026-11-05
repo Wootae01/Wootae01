@@ -18,4 +18,4 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
-![Top Langs](./profile-summary-card-output/default/2-most-commit-language.svg)
+![Top Langs](./profile/top-langs.svg)
