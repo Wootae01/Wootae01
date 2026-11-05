@@ -18,4 +18,4 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wootae01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wootae01&layout=compact)
